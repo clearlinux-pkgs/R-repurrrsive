@@ -4,7 +4,7 @@
 #
 Name     : R-repurrrsive
 Version  : 1.1.0
-Release  : 22
+Release  : 23
 URL      : https://cran.r-project.org/src/contrib/repurrrsive_1.1.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/repurrrsive_1.1.0.tar.gz
 Summary  : Examples of Recursive Lists and Nested or Split Data Frames
